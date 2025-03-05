@@ -1,0 +1,10 @@
+apiVersion: v1
+data:
+  CURRENCY_EXCHANGE_HOST: http://currency-exchange
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2025-03-05T05:59:23Z"
+  name: alaaconfigmap
+  namespace: default
+  resourceVersion: "79610"
+  uid: 3babd9af-24d0-4d42-9746-14076dd6b16e
